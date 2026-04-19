@@ -1,0 +1,14 @@
+node_modules
+.dist
+build
+coverage
+*.log
+.env
+.DS_Store
+.idea
+.vscode
+package-lock.json
+yarn.lock
+*.iml
+*.suo
+*.ntvs*
